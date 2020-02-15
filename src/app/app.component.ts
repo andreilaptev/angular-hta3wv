@@ -20,7 +20,7 @@ export class AppComponent {
  
 
   ngOnInit(){
-    //this.numberOfQuestons = questions.default.length;
+    this.numberOfQuestons = questions.default.length;
   }
 
   onStart(){
