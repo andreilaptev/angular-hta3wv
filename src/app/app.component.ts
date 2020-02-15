@@ -17,8 +17,10 @@ export class AppComponent {
  score: number = 0;
  end: boolean = false
  message: string;
+ 
 
   ngOnInit(){
+    //this.numberOfQuestons = questions.default.length;
   }
 
   onStart(){
