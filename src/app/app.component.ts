@@ -20,6 +20,7 @@ export class AppComponent {
  
 
   ngOnInit(){
+    // For production mode
     this.numberOfQuestons = questions.default.length;
   }
 
