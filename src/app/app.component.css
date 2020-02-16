@@ -2,7 +2,12 @@
     margin-top: 5%;
     font-size: 30px;
 }
-button {
+.welcome button {
     cursor: pointer;
 }
+
+.finish button {
+    cursor: pointer;
+}
+
 
